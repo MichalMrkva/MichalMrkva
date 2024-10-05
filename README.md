@@ -1,6 +1,6 @@
 # 🤓 About me
 - Software development University student
-- Junior Flutter dev for 1 year
+- Working as junior Flutter dev
 # 🤖 Main tech
 - Dart
 - Flutter
