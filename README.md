@@ -1,5 +1,5 @@
 # 🤓 About me
-- Software development University student
+- Software engineering University student
 - Working as junior Flutter dev
 # 🤖 Main tech
 - Dart
