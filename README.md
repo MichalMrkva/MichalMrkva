@@ -7,9 +7,9 @@
 - C#
 - Xamarin / MAUI (i hate them both 😾💢)
 # 😺 Learning
+- Solidity
 - TypeScript
-- ASP.NET
-- Blazor
+- ASP.NET core
 - React
 
 #
