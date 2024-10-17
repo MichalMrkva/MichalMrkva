@@ -7,8 +7,7 @@
 - C#
 - Xamarin / MAUI (i hate them both 😾💢)
 # 😺 Learning
-- Android Native Mobile Dev (Kotlin)
-- TypeScript
+- JavaScript + TypeScript
 - React
 
 #
