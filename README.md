@@ -7,6 +7,7 @@
 - C#
 - Xamarin / MAUI (i hate them both 😾💢)
 # 😺 Learning
+- Native Android app (Jetpack compose + Kotlin)
 - JavaScript + TypeScript
 - React
 
