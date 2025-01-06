@@ -6,7 +6,7 @@
 - C# -> Xamarin / MAUI (i hate them both!!)
 # Learning
 - JavaScript + TypeScript -> React + React-Native
-- Rust -> hardware dev, backend dev, blockchain etc.
+- Rust -> hardware dev, backend dev etc.
 #
 [![wakatime](https://wakatime.com/badge/user/f9c48062-bdb8-4c16-9ba7-087dd06d5349.svg)](https://wakatime.com/@f9c48062-bdb8-4c16-9ba7-087dd06d5349)
 <img src="https://komarev.com/ghpvc/?username=myhal777&color=brightgreen" alt="watching_count" />
