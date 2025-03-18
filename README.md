@@ -1,12 +1,15 @@
 # About me
 - Software engineering University student
-- Working as junior Flutter dev
+- Working as junior Mobile app dev
 # Main tech
 - Dart -> Flutter
-- C# -> Xamarin / MAUI (i hate them both!!)
+- Kotlin -> Jetpack Compose
 # Learning
-- JavaScript + TypeScript -> React + React-Native
+- TypeScript -> React + ReactLynx
 - Rust -> hardware dev, backend dev etc.
+- Go -> backend dev
+# Used to work with
+- C# -> Xamarin / MAUI (i hate them both!!)
 #
 [![wakatime](https://wakatime.com/badge/user/f9c48062-bdb8-4c16-9ba7-087dd06d5349.svg)](https://wakatime.com/@f9c48062-bdb8-4c16-9ba7-087dd06d5349)
 <img src="https://komarev.com/ghpvc/?username=myhal777&color=brightgreen" alt="watching_count" />
